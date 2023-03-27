@@ -4,7 +4,7 @@
 <a name="readme-top"></a>
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
+
   <img src="assests/images/Kazam_screenshot_00079.png" alt="logo" width="140"  height="auto" />
   <br/>
 
