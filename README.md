@@ -138,11 +138,11 @@ people.
 
 ## ❓ FAQ (OPTIONAL) <a name="faq"></a>
 
-[Can I clone this project ?]\*\*
+- Can I clone this project ?\*\*
 
 - Of course you can as long as you fork it and star it
 
-[Can I contribute to this project?]\*\*
+- Can I contribute to this project?\*\*
 
 - definitely you can
 
