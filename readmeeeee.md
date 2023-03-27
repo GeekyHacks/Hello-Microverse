@@ -1,14 +1,12 @@
-
-# Hello Microverse!
+# My-Personal-Portfolio
 
 <a name="readme-top"></a>
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="assests/images/Kazam_screenshot_00079.png" alt="logo" width="140"  height="auto" />
+  <img src="assests/images/project1-img.png"  alt="project1">
   <br/>
 
-  <h3><b> Hello Microverse!</b></h3>
+  <h3><b> Personal Portfolio!</b></h3>
 
 </div>
 
@@ -33,55 +31,58 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [Hello Microverse!] <a name="about-project"></a>
-This is my first project with Microverse using Github professional flow and it's a simple website that is built in html & css.
-**[Hello Microverse!]**
+# 📖 [Personal Portfolio!] <a name="about-project"></a>
+
+**[My Personal Portfolio!]**
+This is my second project with Microverse using Github professional flow and it's a porfolio website that is built in html & css, it includes my resume, basic information about me and my career, and projects I have worked on.
 
 ## 🛠 Built With <a name="built-with">HTML, CSS</a>
 
-### Key Features <a name="key-features"></a>
+### Key Features <a name="key-features">
 
-- [My favorite color]
+</a>
+
+- [Mobile First Styling]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🚀 Live Demo <a name="live-demo"></a>
 
-- [Live Demo Link](https://geekyhacks.github.io/Hello-Microverse/)
+- [Live Demo Link](https://geekyhacks.github.io/Personal-Portfolio-Microverse/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
 To get a local copy up and running, follow these steps:
+
 - Open your Terminal in your VSCode.
 - Navigate to the desired directory[folder] to which you want to clone the repository to
-- [Copy & Paste] git clone you find in the code button https://github.com/GeekyHacks/Hello-Microverse
-
+- [Copy & Paste] git clone you find in the code button https://github.com/GeekyHacks/Personal-Portfolio-Microverse.git
 
 ### Prerequisites
 
 In order to run this project you need:
+
 - General Understanding of HTML & CSS
 - basic Knowledge of Git Commands
 - basic Knowledge of the Terminal Commands
+
 ### Setup
 
 Clone this repository to your desired folder:
-- git clone c
 
-Using the <em>git clone</em> command
+- git clone https://github.com/GeekyHacks/Personal-Portfolio-Microverse.git
+
 Example commands:
 
 ```sh
   cd my-folder
-  git clone https://github.com/GeekyHacks/Hello-Microverse.git
+  git clone https://github.com/GeekyHacks/Personal-Portfolio-Microverse.git
 
 ```
 
 --->
-
-<p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ### Install
 
@@ -94,7 +95,6 @@ Must-Install-Project-with-the-Following-Programmes:
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-
 ## 👥 Authors <a name="authors"></a>
 
 👤 **GeekyHacks**
@@ -105,8 +105,9 @@ Must-Install-Project-with-the-Following-Programmes:
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- add more interactive buttons and sections
-- style it beautifully
+- Adding Contact Form Page
+- Customizing it for Desktop Screen
+- Adding Email Newsletter Form
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -126,6 +127,8 @@ people.
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
+
+I would like to thank...
 
 - Microverse Review Team
 - My Coding Partners
@@ -147,6 +150,6 @@ people.
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/GeekyHacks/Hello-Microverse/blob/e78d5d376145aa071c3db6ef11befb211eae7b1e/MIT.md) licensed.
+This project is [MIT](https://github.com/GeekyHacks/Personal-Portfolio-Microverse/blob/c94c940b573e85b888d2d3da699284214552018b/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
