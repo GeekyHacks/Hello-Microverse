@@ -1,8 +1,11 @@
+
+# Hello Microverse!
+
 <a name="readme-top"></a>
 
 <div align="center">
-  <!-- You are encouraged to replace this logo with your own! Otherwise you can also remove it. -->
-  <img src="murple_logo.png" alt="logo" width="140"  height="auto" />
+
+  <img src="assests/images/Kazam_screenshot_00079.png" alt="logo" width="140"  height="auto" />
   <br/>
 
   <h3><b> Hello Microverse!</b></h3>
@@ -27,19 +30,18 @@
 - [🤝 Contributing](#contributing)
 - [⭐️ Show your support](#support)
 - [🙏 Acknowledgements](#acknowledgements)
-- [❓ FAQ (OPTIONAL)](#faq)
+- [❓ FAQ ](#faq)
 - [📝 License](#license)
 
-# 📖 [Hello Microverse!] <a name="about-project"></a>
-
-This is my first project with Microverse using Github professional flow
+# 📖 Hello Microverse! <a name="about-project"></a>
+This is my first project with Microverse using Github professional flow and it's a simple website that is built in html & css.
 **[Hello Microverse!]**
 
 ## 🛠 Built With <a name="built-with">HTML, CSS</a>
 
 ### Key Features <a name="key-features"></a>
 
-- **[My favorite color]**
+- My favorite color
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -47,26 +49,54 @@ This is my first project with Microverse using Github professional flow
 
 - [Live Demo Link](https://geekyhacks.github.io/Hello-Microverse/)
 
+
+
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 💻 Getting Started <a name="getting-started"></a>
 
-To get a local copy up and running, follow these steps.
+To get a local copy up and running, follow these steps:
+- Open your Terminal in your VSCode.
+- Navigate to the desired directory[folder] to which you want to clone the repository to
+- [Copy & Paste] git clone you find in the code button https://github.com/GeekyHacks/Hello-Microverse
+
 
 ### Prerequisites
 
 In order to run this project you need:
--VScode
--Prettier Extention
--Git
-
+- General Understanding of HTML & CSS
+- basic Knowledge of Git Commands
+- basic Knowledge of the Terminal Commands
 ### Setup
 
 Clone this repository to your desired folder:
+- git clone https://github.com/GeekyHacks/Hello-Microverse.git
 
 Using the <em>git clone</em> command
+Example commands:
+
+```sh
+  cd my-folder
+  git clone https://github.com/GeekyHacks/Hello-Microverse.git
+
+```
+
+--->
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
+
+### Install
+
+Must-Install-Project-with-the-Following-Programmes:
+
+- Prettier Extention in VScode
+- Git
+- Node.js
+- npm install
+
+<p align="right">(<a href="#readme-top">back to top</a>)</p>
+
 
 ## 👥 Authors <a name="authors"></a>
 
@@ -78,8 +108,8 @@ Using the <em>git clone</em> command
 
 ## 🔭 Future Features <a name="future-features"></a>
 
-- [ ] **[add more interactive buttons and sections]**
-- [ ] **[style it beautifully]**
+- add more interactive buttons and sections
+- style it beautifully
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -100,25 +130,26 @@ people.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-I would like to thank Microverse for their unique way of teach me how to code, and also Freecodecamp for their practical articles that helped me to
-make this project.
+- Microverse Team
+- My Coding Partners
+- Microverse Community in Slack
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## ❓ FAQ (OPTIONAL) <a name="faq"></a>
+## ❓ FAQ <a name="faq"></a>
 
-[Can I clone this project ?]\*\*
+- Can I clone this project ?\*\*
 
-- [Of course you can as long as you fork it and star it]
+- Of course you can as long as you fork it and star it
 
-[Can I contribute to this project?]\*\*
+- Can I contribute to this project?\*\*
 
-- [definitely you can]
+- definitely you can
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/GeekyHacks/Hello-Microverse/blob/e78d5d376145aa071c3db6ef11befb211eae7b1e/MIT.md) licensed.
+This project is [MIT](https://github.com/GeekyHacks/Hello-Microverse/blob/final-pullrequest/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
