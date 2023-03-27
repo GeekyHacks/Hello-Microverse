@@ -41,7 +41,7 @@ This is my first project with Microverse using Github professional flow and it's
 
 ### Key Features <a name="key-features"></a>
 
-- [My favorite color]
+- My favorite color
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
