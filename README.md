@@ -33,7 +33,7 @@
 - [❓ FAQ (OPTIONAL)](#faq)
 - [📝 License](#license)
 
-# 📖 [Hello Microverse!] <a name="about-project"></a>
+# 📖 Hello Microverse! <a name="about-project"></a>
 This is my first project with Microverse using Github professional flow and it's a simple website that is built in html & css.
 **[Hello Microverse!]**
 
@@ -68,7 +68,7 @@ In order to run this project you need:
 ### Setup
 
 Clone this repository to your desired folder:
-- git clone c
+- git clone https://github.com/GeekyHacks/Hello-Microverse.git
 
 Using the <em>git clone</em> command
 Example commands:
@@ -127,7 +127,7 @@ people.
 
 ## 🙏 Acknowledgments <a name="acknowledgements"></a>
 
-- Microverse Review Team
+- Microverse Team
 - My Coding Partners
 - Microverse Community in Slack
 
@@ -137,16 +137,16 @@ people.
 
 [Can I clone this project ?]\*\*
 
-- [Of course you can as long as you fork it and star it]
+- Of course you can as long as you fork it and star it
 
 [Can I contribute to this project?]\*\*
 
-- [definitely you can]
+- definitely you can
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 ## 📝 License <a name="license"></a>
 
-This project is [MIT](https://github.com/GeekyHacks/Hello-Microverse/blob/e78d5d376145aa071c3db6ef11befb211eae7b1e/MIT.md) licensed.
+This project is [MIT](https://github.com/GeekyHacks/Hello-Microverse/blob/final-pullrequest/MIT.md) licensed.
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
