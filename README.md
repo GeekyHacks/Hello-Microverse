@@ -35,11 +35,25 @@
 This is my first project with Microverse using Github professional flow
 **[Hello Microverse!]**
 
-## 🛠 Built With <a name="built-with">HTML, CSS</a>
+## 🛠 Built With <a name="built-with"></a>
+
+### Tech Stack <a name="tech-stack"></a>
+
+
+<details>
+  <summary>Client</summary>
+  <ul>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Learn/HTML/Introduction_to_HTML/Getting_started">HTML</a></li>
+    <li><a href="https://developer.mozilla.org/en-US/docs/Web/CSS">CSS</a></li>
+ 
+  </ul>
+</details>
 
 ### Key Features <a name="key-features"></a>
 
-- **[My favorite color]**
+- Add the linter for the project to fix the errors and clean the codeok_hand
+- User-friendly Interface: Simple and intuitive interface for a seamless user experience.rocket
+- Style the text using the CSS 100
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
